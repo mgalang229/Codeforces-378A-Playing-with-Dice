@@ -2,7 +2,7 @@
 ### Problem
 ![](capture.png)
 ### Program Simulation
-<h1> Note the "absolute" value is used in the conditions below. </h1>
+## Note the "absolute" value is used in the conditions below.
 <pre>
   Sample Input: 2 5
   
